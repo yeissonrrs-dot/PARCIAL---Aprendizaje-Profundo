@@ -25,7 +25,7 @@ El repositorio está organizado de la siguiente manera:
 - Git y GitHub para control de versiones
 
 - [Modelo CNN + LSTM](https://colab.research.google.com/drive/10Faw2xwTkcYXryExTWDllBSkfELvEyNU?usp=sharing)
-- [Modelo LSTM]()
+- [Modelo LSTM](https://colab.research.google.com/drive/1FsjaZrDDIMoCVRVn0OieoeqRF-5f6KpN?authuser=1#scrollTo=rK0uJvTSWRPT)
 - [Modelo denso](https://colab.research.google.com/drive/1Yae_d_F1w7-i1OOxqCvIh20dSaPTfQKj?usp=sharing)
 - [Modelo base (baseline)](https://colab.research.google.com/drive/10Ro3OLeJI7ewu7YJHRQta_Cgl9dY-J2t?usp=sharing)
 
